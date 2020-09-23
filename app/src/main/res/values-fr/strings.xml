@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InternacionalizacionEjemplo</string>
+    <string name="btnOk">d\'accord</string>
+    <string name="mensajeHola">Salut</string>
+    <string name="ejecutar">courir</string>
+</resources>

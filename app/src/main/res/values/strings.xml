@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">InternacionalizacionEjemplo</string>
+    <string name="btnOk">Ok</string>
+    <string name="mensajeHola" translatable="false">Hola</string>
+    <string name="ejecutar">ejecutar</string>
+</resources>
